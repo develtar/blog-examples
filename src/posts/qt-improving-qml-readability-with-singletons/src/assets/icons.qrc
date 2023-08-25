@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>icons/tabler/moon.svg</file>
+        <file>icons/tabler/sun.svg</file>
+    </qresource>
+</RCC>

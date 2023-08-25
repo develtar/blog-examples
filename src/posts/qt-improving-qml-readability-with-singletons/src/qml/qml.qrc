@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>qmldir</file>
+        <file>javascript/config.js</file>
+        <file>javascript/icons.js</file>
+        <file>javascript/strings.js</file>
+        <file>conf/App.qml</file>
+        <file>conf/Theme.qml</file>
+        <file>components/Button.qml</file>
+    </qresource>
+</RCC>
