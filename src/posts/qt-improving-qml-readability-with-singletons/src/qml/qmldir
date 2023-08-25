@@ -1,0 +1,5 @@
+module qml
+
+singleton App 1.0 conf/App.qml
+
+Button 1.0 components/Button.qml
